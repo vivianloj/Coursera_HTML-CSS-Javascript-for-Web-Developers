@@ -1,0 +1,54 @@
+.navbar-brand h1 {
+    font-size: 1.5em;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#nav-list { 
+    margin: 0;
+    padding: 0;
+}
+
+#nav-list a {
+    text-align: center;
+    font-size: 1em;
+    background: #dddddda1;
+}
+
+#nav-list a:hover {
+    background: #ddd;
+}
+
+.navbar-header button.navbar-toggle {
+    clear: both;
+    margin-top: -30px;
+}
+
+.content h1 {
+    font-size: 2em;
+}
+
+.section {
+    min-height: 1000px;
+    margin: 3vw;
+    padding: 2vw;
+    border: 2px solid #ddd;
+    background-color: #f8f8f8;
+    box-sizing: border-box;
+}
+
+.section .title {
+    font-size: 1.7em;
+    font-weight: 700;
+    margin: 16px;
+}
+
+.section .title {
+    font-size: 1.4em;
+    font-weight: 700;
+    margin: 16px;
+}
+
+.section .content-section {
+    font-size: 1em;
+}
